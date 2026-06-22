@@ -1,0 +1,26 @@
+# Arduino build output / פלט קומפילציה
+build/
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE / קבצים זמניים של הסביבה
+.theia/
+*.tmp
+
+# OS files / קבצי מערכת
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor / עורכים
+.vscode/
+.idea/
+*.swp
+
+# Google Drive cloud-only files / קבצים מקוונים של גוגל דרייב
+*.gslides
+*.gdoc
+*.gsheet
+*.gdraw
+*.gform
